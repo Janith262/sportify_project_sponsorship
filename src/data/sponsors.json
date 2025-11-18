@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "company": "BlueWave Technologies",
+    "tier": "Platinum",
+    "amountLKR": 100000,
+    "dateSince": "2025-05-01T09:30:00.000Z",
+    "website": "https://bluewave.example.com"
+  },
+  {
+    "id": "2",
+    "company": "Island Bank",
+    "tier": "Gold",
+    "amountLKR": 75000,
+    "dateSince": "2025-04-15T10:15:00.000Z",
+    "website": "https://islandbank.example.com"
+  },
+  {
+    "id": "3",
+    "company": "Ceylon Beverages",
+    "tier": "Silver",
+    "amountLKR": 50000,
+    "dateSince": "2025-04-01T08:00:00.000Z",
+    "website": "https://ceylonbev.example.com"
+  },
+  {
+    "id": "4",
+    "company": "GlobalNet Solutions",
+    "tier": "Other",
+    "amountLKR": 30000,
+    "dateSince": "2025-03-20T14:45:00.000Z",
+    "website": "https://globalnet.example.com"
+  },
+  {
+    "id": "5",
+    "company": "Lion Logistics",
+    "tier": "Gold",
+    "amountLKR": 76000,
+    "dateSince": "2025-03-05T12:10:00.000Z",
+    "website": "https://lionlogi.example.com"
+  },
+  {
+    "id": "6",
+    "company": "Sunrise Apparel",
+    "tier": "Silver",
+    "amountLKR": 52000,
+    "dateSince": "2025-02-25T11:40:00.000Z",
+    "website": "https://sunriseapparel.example.com"
+  },
+  {
+    "id": "7",
+    "company": "Pearl Insurance Co.",
+    "tier": "Platinum",
+    "amountLKR": 100000,
+    "dateSince": "2025-02-10T07:25:00.000Z",
+    "website": "https://pearlins.example.com"
+  },
+  {
+    "id": "8",
+    "company": "Serendib Foods",
+    "tier": "Other",
+    "amountLKR": 42000,
+    "dateSince": "2025-01-28T16:00:00.000Z",
+    "website": "https://serendibfoods.example.com"
+  },
+  {
+    "id": "9",
+    "company": "Marlin Sports Gear",
+    "tier": "Silver",
+    "amountLKR": 50000,
+    "dateSince": "2025-01-12T13:35:00.000Z",
+    "website": "https://marlinsports.example.com"
+  },
+  {
+    "id": "10",
+    "company": "Cocoa Valley Chocolates",
+    "tier": "Gold",
+    "amountLKR": 75000,
+    "dateSince": "2024-12-30T09:05:00.000Z",
+    "website": "https://cocoavalley.example.com"
+  }
+]
